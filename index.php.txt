@@ -1,15 +1,10 @@
 <?php
 
 
-<<<<<<< HEAD
 echo"Olá mundo 456!; 
 
 echo "Olá Udemy"; 
 
-=======
-echo"Olá mundo!;
 
-echo "Olá HCODE!";
->>>>>>> 4a3072a82817d28f6a8d46c31272d8d010a6fbdc
 
 ?>
